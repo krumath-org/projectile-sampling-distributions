@@ -1,3 +1,10 @@
 {
-
+	"KantumruyPro-Khmer.woff2": {
+		"text": [
+			"Copyright 2022 The Kantumruy Pro Project Authors"
+		],
+		"projectURL": "https://github.com/googlefonts/kantumruy",
+		"license": "SIL Open Font License, Version 1.1",
+		"notes": "Khmer subset of the Kantumruy Pro variable font; see OFL-KantumruyPro.txt."
+	}
 }

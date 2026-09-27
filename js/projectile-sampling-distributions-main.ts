@@ -6,6 +6,7 @@
  * @author Matthew Blackman (PhET Interactive Simulations)
  */
 
+import './common/KhmerLocalizationSetup.js';
 import PreferencesModel from '../../joist/js/preferences/PreferencesModel.js';
 import Sim from '../../joist/js/Sim.js';
 import simLauncher from '../../joist/js/simLauncher.js';

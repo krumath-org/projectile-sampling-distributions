@@ -1,0 +1,3820 @@
+{
+  "_README": [
+    "REFERENCE ONLY — do not translate from this file.",
+    "",
+    "This is the complete inventory of every English string in the repos the sim loads (756 total).",
+    "Most of it is shared PhET library text for features this sim never displays, so the actual",
+    "translation workbook is narrowed to the 191 strings that really appear:",
+    "    km-translation-workbook.json",
+    "",
+    "Kept so you can see the full picture / recover anything missed."
+  ],
+  "_meta": {
+    "generated": "2026-09-26",
+    "totalStrings": 756
+  },
+  "strings": {
+    "projectile-data-lab": {
+      "projectile-data-lab.title": {
+        "en": "Projectile Data Lab",
+        "km": "",
+        "group": "sim-content"
+      },
+      "screen.variability": {
+        "en": "Variability",
+        "km": "",
+        "group": "sim-content"
+      },
+      "screen.sources": {
+        "en": "Sources",
+        "km": "",
+        "group": "sim-content"
+      },
+      "screen.measures": {
+        "en": "Measures",
+        "km": "",
+        "group": "sim-content"
+      },
+      "screen.sampling": {
+        "en": "Sampling",
+        "km": "",
+        "group": "sim-content"
+      },
+      "single": {
+        "en": "Single",
+        "km": "",
+        "group": "sim-content"
+      },
+      "launch": {
+        "en": "Launch",
+        "km": "",
+        "group": "sim-content"
+      },
+      "stop": {
+        "en": "Stop",
+        "km": "",
+        "group": "sim-content"
+      },
+      "continuous": {
+        "en": "Continuous",
+        "km": "",
+        "group": "sim-content"
+      },
+      "noAirResistance": {
+        "en": "No air resistance",
+        "km": "",
+        "group": "sim-content"
+      },
+      "orientation": {
+        "en": "Orientation",
+        "km": "",
+        "group": "sim-content"
+      },
+      "projectile": {
+        "en": "Projectile",
+        "km": "",
+        "group": "sim-content"
+      },
+      "launcherNumberPattern": {
+        "en": "Launcher {{number}}",
+        "km": "",
+        "group": "sim-content"
+      },
+      "angleStability": {
+        "en": "Angle Stability",
+        "km": "",
+        "group": "sim-content"
+      },
+      "min": {
+        "en": "min",
+        "km": "",
+        "group": "sim-content"
+      },
+      "max": {
+        "en": "max",
+        "km": "",
+        "group": "sim-content"
+      },
+      "mysteryLauncher": {
+        "en": "Mystery Launcher",
+        "km": "",
+        "group": "sim-content"
+      },
+      "customLauncher": {
+        "en": "Custom Launcher",
+        "km": "",
+        "group": "sim-content"
+      },
+      "histogram": {
+        "en": "Histogram",
+        "km": "",
+        "group": "sim-content"
+      },
+      "fieldNumberPattern": {
+        "en": "Field {{number}}",
+        "km": "",
+        "group": "sim-content"
+      },
+      "noData": {
+        "en": "No data",
+        "km": "",
+        "group": "sim-content"
+      },
+      "mean": {
+        "en": "Mean",
+        "km": "",
+        "group": "sim-content"
+      },
+      "standardDeviation": {
+        "en": "Standard Deviation",
+        "km": "",
+        "group": "sim-content"
+      },
+      "values": {
+        "en": "Values",
+        "km": "",
+        "group": "sim-content"
+      },
+      "sampleSizeN": {
+        "en": "Sample Size (n)",
+        "km": "",
+        "group": "sim-content"
+      },
+      "paths": {
+        "en": "Paths",
+        "km": "",
+        "group": "sim-content"
+      },
+      "speed": {
+        "en": "Speed",
+        "km": "",
+        "group": "sim-content"
+      },
+      "launchSpeed": {
+        "en": "Launch Speed",
+        "km": "",
+        "group": "sim-content"
+      },
+      "angle": {
+        "en": "Angle",
+        "km": "",
+        "group": "sim-content"
+      },
+      "launchAngle": {
+        "en": "Launch Angle",
+        "km": "",
+        "group": "sim-content"
+      },
+      "measuringTape": {
+        "en": "Measuring Tape",
+        "km": "",
+        "group": "sim-content"
+      },
+      "stopwatch": {
+        "en": "Stopwatch",
+        "km": "",
+        "group": "sim-content"
+      },
+      "intervalTool": {
+        "en": "Interval Tool",
+        "km": "",
+        "group": "sim-content"
+      },
+      "meanEqualsValueMPattern": {
+        "en": "Mean = {{value}} m",
+        "km": "",
+        "group": "sim-content"
+      },
+      "meanXBarEqualsValueMPattern": {
+        "en": "Mean (x̅) = {{value}} m",
+        "km": "",
+        "group": "sim-content"
+      },
+      "standardDeviationMPattern": {
+        "en": "{{standardDeviation}} m",
+        "km": "",
+        "group": "sim-content"
+      },
+      "standardDeviationEqualsValueMPattern": {
+        "en": "Standard deviation = {{value}} m",
+        "km": "",
+        "group": "sim-content"
+      },
+      "standardErrorOfXBarEqualsValueMPattern": {
+        "en": "Standard error of x̅ = {{value}} m",
+        "km": "",
+        "group": "sim-content"
+      },
+      "valueMetersPerSecondPattern": {
+        "en": "{{value}} m/s",
+        "km": "",
+        "group": "sim-content"
+      },
+      "valueDegreesPattern": {
+        "en": "{{value}}°",
+        "km": "",
+        "group": "sim-content"
+      },
+      "nEqualsSampleSizePattern": {
+        "en": "n = {{sampleSize}}",
+        "km": "",
+        "group": "sim-content"
+      },
+      "sampleNumberOfCountPattern": {
+        "en": "Sample {{number}} of {{count}}",
+        "km": "",
+        "group": "sim-content"
+      },
+      "numberOfCountPattern": {
+        "en": "{{number}} of {{count}}",
+        "km": "",
+        "group": "sim-content"
+      },
+      "binWidthMPattern": {
+        "en": "{{binWidth}} m",
+        "km": "",
+        "group": "sim-content"
+      },
+      "intervalMPattern": {
+        "en": "{{interval}} m",
+        "km": "",
+        "group": "sim-content"
+      },
+      "meanMPattern": {
+        "en": "{{mean}} m",
+        "km": "",
+        "group": "sim-content"
+      },
+      "distance": {
+        "en": "Distance",
+        "km": "",
+        "group": "sim-content"
+      },
+      "meanDistance": {
+        "en": "Mean Distance",
+        "km": "",
+        "group": "sim-content"
+      },
+      "count": {
+        "en": "Count",
+        "km": "",
+        "group": "sim-content"
+      },
+      "binWidth": {
+        "en": "Bin Width",
+        "km": "",
+        "group": "sim-content"
+      },
+      "totalBins": {
+        "en": "Total Bins",
+        "km": "",
+        "group": "sim-content"
+      },
+      "histogramBins": {
+        "en": "Histogram Bins",
+        "km": "",
+        "group": "sim-content"
+      },
+      "histogramBinsPreferenceDescription": {
+        "en": "The histogram can represent data based on the width of the bins or by the total number of bins on the field.",
+        "km": "",
+        "group": "sim-content"
+      },
+      "showStandardError": {
+        "en": "Show Standard Error",
+        "km": "",
+        "group": "sim-content"
+      },
+      "showStandardErrorPreferenceDescription": {
+        "en": "Determines whether the standard error of the mean is displayed when Values is selected on the Measures screen.",
+        "km": "",
+        "group": "sim-content"
+      },
+      "launchSound": {
+        "en": "Launch Sound",
+        "km": "",
+        "group": "sim-content"
+      },
+      "none": {
+        "en": "None",
+        "km": "",
+        "group": "sim-content"
+      },
+      "launchSoundPreferenceDescription": {
+        "en": "The launch sound can represent either the initial speed or initial angle of the projectile, or it can be turned off.",
+        "km": "",
+        "group": "sim-content"
+      },
+      "playLandingSound": {
+        "en": "Play Landing Sound",
+        "km": "",
+        "group": "sim-content"
+      },
+      "playLandingSoundPreferenceDescription": {
+        "en": "Determines whether a sound is played when a projectile lands.",
+        "km": "",
+        "group": "sim-content"
+      },
+      "percentPattern": {
+        "en": "{{percent}}%",
+        "km": "",
+        "group": "sim-content"
+      },
+      "sampleSizeNPattern": {
+        "en": "Sample size (n): {{sampleSize}}",
+        "km": "",
+        "group": "sim-content"
+      },
+      "numberOfSamplesPattern": {
+        "en": "Number of samples: {{numberOfSamples}}",
+        "km": "",
+        "group": "sim-content"
+      },
+      "fromAnywhereInSim": {
+        "en": "From Anywhere in Sim",
+        "km": "",
+        "group": "sim-content"
+      },
+      "goToField": {
+        "en": "Go to field",
+        "km": "",
+        "group": "sim-content"
+      },
+      "creating": {
+        "en": "Creating...",
+        "km": "",
+        "group": "sim-content"
+      },
+      "launchOrStopProjectiles": {
+        "en": "Launch or stop projectiles",
+        "km": "",
+        "group": "sim-content"
+      },
+      "autoGenerateData": {
+        "en": "Auto-Generate Data",
+        "km": "",
+        "group": "sim-content"
+      },
+      "autoGenerateDataPreferenceDescription": {
+        "en": "Makes it so the launch button generates a full set of data.",
+        "km": "",
+        "group": "sim-content"
+      },
+      "projectileTypeAffectsSpeed": {
+        "en": "Projectile Type Affects Speed",
+        "km": "",
+        "group": "sim-content"
+      },
+      "projectileTypeAffectsSpeedPreferenceDescription": {
+        "en": "Determines whether the type of projectile affects its mean launch speed.",
+        "km": "",
+        "group": "sim-content"
+      },
+      "keyboardHelpDialog.measuresScreen.movePointerIntervalHandleOrIntervalBlock": {
+        "en": "Move Interval Tool or its Edges",
+        "km": "",
+        "group": "sim-content"
+      },
+      "keyboardHelpDialog.measuresScreen.object": {
+        "en": "Interval Tool or its Edges",
+        "km": "",
+        "group": "sim-content"
+      },
+      "keyboardHelpDialog.measuresScreen.move": {
+        "en": "Move",
+        "km": "",
+        "group": "sim-content"
+      },
+      "keyboardHelpDialog.measuresScreen.endOfNumberLine": {
+        "en": "End of the Field",
+        "km": "",
+        "group": "sim-content"
+      },
+      "keyboardHelpDialog.measuresScreen.startOfNumberLine": {
+        "en": "Start of the Field",
+        "km": "",
+        "group": "sim-content"
+      },
+      "keyboardHelpDialog.histogramBinControls": {
+        "en": "Histogram Bin Controls",
+        "km": "",
+        "group": "sim-content"
+      }
+    },
+    "projectile-sampling-distributions": {
+      "projectile-sampling-distributions.title": {
+        "en": "Projectile Sampling Distributions",
+        "km": "",
+        "group": "sim-content"
+      }
+    },
+    "joist": {
+      "joist.title": {
+        "en": "joist demo",
+        "km": "",
+        "group": "framework"
+      },
+      "done": {
+        "en": "Done",
+        "km": "",
+        "group": "framework"
+      },
+      "menuItem.options": {
+        "en": "Options…",
+        "km": "",
+        "group": "framework"
+      },
+      "menuItem.about": {
+        "en": "About…",
+        "km": "",
+        "group": "framework"
+      },
+      "menuItem.outputLog": {
+        "en": "Output Log",
+        "km": "",
+        "group": "framework"
+      },
+      "menuItem.phetWebsite": {
+        "en": "PhET Website…",
+        "km": "",
+        "group": "framework"
+      },
+      "menuItem.reportAProblem": {
+        "en": "Report a Problem…",
+        "km": "",
+        "group": "framework"
+      },
+      "menuItem.screenshot": {
+        "en": "Screenshot",
+        "km": "",
+        "group": "framework"
+      },
+      "menuItem.fullscreen": {
+        "en": "Full Screen",
+        "km": "",
+        "group": "framework"
+      },
+      "menuItem.getUpdate": {
+        "en": "Check for Updates…",
+        "km": "",
+        "group": "framework"
+      },
+      "menuItem.enhancedSound": {
+        "en": "Extra Sound",
+        "km": "",
+        "group": "framework"
+      },
+      "menuItem.mailInputEventsLog": {
+        "en": "Mail Input Events Log",
+        "km": "",
+        "group": "framework"
+      },
+      "menuItem.outputInputEventsLog": {
+        "en": "Output Input Events Log",
+        "km": "",
+        "group": "framework"
+      },
+      "menuItem.submitInputEventsLog": {
+        "en": "Submit Input Events Log",
+        "km": "",
+        "group": "framework"
+      },
+      "menuItem.settings": {
+        "en": "Settings",
+        "km": "",
+        "group": "framework"
+      },
+      "title.settings": {
+        "en": "Settings",
+        "km": "",
+        "group": "framework"
+      },
+      "showPointers": {
+        "en": "Show Pointers",
+        "km": "",
+        "group": "framework"
+      },
+      "termsPrivacyAndLicensing": {
+        "en": "Terms, Privacy & Licensing",
+        "km": "",
+        "group": "framework"
+      },
+      "privacyPolicy": {
+        "en": "Privacy Policy",
+        "km": "",
+        "group": "framework"
+      },
+      "donateToPhet": {
+        "en": "Donate to PhET",
+        "km": "",
+        "group": "framework"
+      },
+      "license.title": {
+        "en": "License",
+        "km": "",
+        "group": "framework"
+      },
+      "credits.title": {
+        "en": "Credits",
+        "km": "",
+        "group": "framework"
+      },
+      "credits.leadDesign": {
+        "en": "Lead Design: {0}",
+        "km": "",
+        "group": "framework"
+      },
+      "credits.softwareDevelopment": {
+        "en": "Software Development: {0}",
+        "km": "",
+        "group": "framework"
+      },
+      "credits.team": {
+        "en": "Team: {0}",
+        "km": "",
+        "group": "framework"
+      },
+      "credits.contributors": {
+        "en": "Contributors: {0}",
+        "km": "",
+        "group": "framework"
+      },
+      "credits.qualityAssurance": {
+        "en": "Quality Assurance: {0}",
+        "km": "",
+        "group": "framework"
+      },
+      "credits.graphicArts": {
+        "en": "Graphic Arts: {0}",
+        "km": "",
+        "group": "framework"
+      },
+      "credits.soundDesign": {
+        "en": "Sound Design: {0}",
+        "km": "",
+        "group": "framework"
+      },
+      "credits.translation": {
+        "en": "Translation",
+        "km": "",
+        "group": "framework"
+      },
+      "credits.thanks": {
+        "en": "Thanks",
+        "km": "",
+        "group": "framework"
+      },
+      "options.title": {
+        "en": "Options",
+        "km": "",
+        "group": "framework"
+      },
+      "versionPattern": {
+        "en": "version {0}",
+        "km": "",
+        "group": "framework"
+      },
+      "updates.upToDate": {
+        "en": "This simulation is up to date.",
+        "km": "",
+        "group": "framework"
+      },
+      "updates.outOfDate": {
+        "en": "New version available",
+        "km": "",
+        "group": "framework"
+      },
+      "updates.checking": {
+        "en": "Checking for updates…",
+        "km": "",
+        "group": "framework"
+      },
+      "updates.offline": {
+        "en": "Unable to check for updates.",
+        "km": "",
+        "group": "framework"
+      },
+      "updates.newVersionAvailable": {
+        "en": "There is a new version available: {0}.",
+        "km": "",
+        "group": "framework"
+      },
+      "updates.yourCurrentVersion": {
+        "en": "Your current version is: {0}.",
+        "km": "",
+        "group": "framework"
+      },
+      "updates.getUpdate": {
+        "en": "Get Update…",
+        "km": "",
+        "group": "framework"
+      },
+      "updates.noThanks": {
+        "en": "No Thanks",
+        "km": "",
+        "group": "framework"
+      },
+      "translation.credits.link": {
+        "en": "Translation Credits",
+        "km": "",
+        "group": "framework"
+      },
+      "thirdParty.credits.link": {
+        "en": "Third-party Credits",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardShortcuts.title": {
+        "en": "Keyboard Shortcuts",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardShortcuts.toGetStarted": {
+        "en": "to get started",
+        "km": "",
+        "group": "framework"
+      },
+      "simTitleWithScreenNamePattern": {
+        "en": "{{simName}} — {{screenName}}",
+        "km": "",
+        "group": "framework"
+      },
+      "projectorMode": {
+        "en": "Projector Mode",
+        "km": "",
+        "group": "framework"
+      },
+      "queryParametersWarningDialog.invalidQueryParameters": {
+        "en": "Invalid Query Parameters",
+        "km": "",
+        "group": "framework"
+      },
+      "queryParametersWarningDialog.oneOrMoreQueryParameters": {
+        "en": "One or more of these query parameters have<br>invalid values:",
+        "km": "",
+        "group": "framework"
+      },
+      "queryParametersWarningDialog.theSimulationWillStart": {
+        "en": "The simulation will start with default values for<br>those query parameters.",
+        "km": "",
+        "group": "framework"
+      },
+      "ieErrorPage.platformError": {
+        "en": "Platform Error",
+        "km": "",
+        "group": "framework"
+      },
+      "ieErrorPage.ieIsNotSupported": {
+        "en": "Internet Explorer is not supported.",
+        "km": "",
+        "group": "framework"
+      },
+      "ieErrorPage.useDifferentBrowser": {
+        "en": "Please use a different browser to run this simulation.",
+        "km": "",
+        "group": "framework"
+      },
+      "preferences.title": {
+        "en": "Preferences",
+        "km": "",
+        "group": "framework"
+      },
+      "preferences.tabs.general.title": {
+        "en": "General",
+        "km": "",
+        "group": "framework"
+      },
+      "preferences.tabs.overview.title": {
+        "en": "Overview",
+        "km": "",
+        "group": "framework"
+      },
+      "preferences.tabs.general.accessibilityIntro": {
+        "en": "We are adding features to our simulations to make them more inclusive. Some of these features support accessibility for learners with diverse needs and within diverse environments. Explore this menu to review or change the default presentation settings.",
+        "km": "",
+        "group": "framework"
+      },
+      "preferences.tabs.general.moreAccessibility": {
+        "en": "Look for Inclusive Features on the Simulations Filter page of the PhET website to find all simulations with available features.",
+        "km": "",
+        "group": "framework"
+      },
+      "preferences.tabs.simulation.title": {
+        "en": "Simulation",
+        "km": "",
+        "group": "framework"
+      },
+      "preferences.tabs.visual.title": {
+        "en": "Visual",
+        "km": "",
+        "group": "framework"
+      },
+      "preferences.tabs.visual.interactiveHighlights": {
+        "en": "Interactive Highlights",
+        "km": "",
+        "group": "framework"
+      },
+      "preferences.tabs.visual.interactiveHighlightsDescription": {
+        "en": "Add visual highlights for mouse and touch as you interact.",
+        "km": "",
+        "group": "framework"
+      },
+      "preferences.tabs.visual.projectorModeDescription": {
+        "en": "Increase color contrast for better visibility in classrooms.",
+        "km": "",
+        "group": "framework"
+      },
+      "preferences.tabs.audio.title": {
+        "en": "Audio",
+        "km": "",
+        "group": "framework"
+      },
+      "preferences.tabs.audio.voicing.titleEnglishOnly": {
+        "en": "Voicing (English Only)",
+        "km": "",
+        "group": "framework"
+      },
+      "preferences.tabs.audio.voicing.description": {
+        "en": "Voice and highlight content as you interact.",
+        "km": "",
+        "group": "framework"
+      },
+      "preferences.tabs.audio.sounds.title": {
+        "en": "Sounds",
+        "km": "",
+        "group": "framework"
+      },
+      "preferences.tabs.audio.sounds.extraSounds.title": {
+        "en": "Extra Sounds",
+        "km": "",
+        "group": "framework"
+      },
+      "preferences.tabs.audio.audioFeatures.title": {
+        "en": "Audio Features",
+        "km": "",
+        "group": "framework"
+      },
+      "preferences.tabs.audio.sounds.description": {
+        "en": "Play sonifications and sound effects as you interact.",
+        "km": "",
+        "group": "framework"
+      },
+      "preferences.tabs.audio.sounds.extraSounds.description": {
+        "en": "Play additional sound that may be helpful for some learners.",
+        "km": "",
+        "group": "framework"
+      },
+      "preferences.tabs.input.title": {
+        "en": "Input",
+        "km": "",
+        "group": "framework"
+      },
+      "preferences.tabs.localization.title": {
+        "en": "Localization",
+        "km": "",
+        "group": "framework"
+      },
+      "preferences.tabs.localization.languageSelection.title": {
+        "en": "Languages",
+        "km": "",
+        "group": "framework"
+      },
+      "preferences.tabs.localization.languageSelection.description": {
+        "en": "Change language to translate on-screen text. Additional descriptions, when present, remain in English.",
+        "km": "",
+        "group": "framework"
+      },
+      "preferences.tabs.localization.regionAndCulture.title": {
+        "en": "Region and Culture",
+        "km": "",
+        "group": "framework"
+      },
+      "preferences.tabs.localization.regionAndCulture.description": {
+        "en": "Select the portrayal of people, places, or objects in the sim. Images are not intended to represent the entire diversity of a region or culture.",
+        "km": "",
+        "group": "framework"
+      },
+      "preferences.tabs.localization.regionAndCulture.africa": {
+        "en": "Africa",
+        "km": "",
+        "group": "framework"
+      },
+      "preferences.tabs.localization.regionAndCulture.africaModest": {
+        "en": "Africa (Modest)",
+        "km": "",
+        "group": "framework"
+      },
+      "preferences.tabs.localization.regionAndCulture.asia": {
+        "en": "Asia",
+        "km": "",
+        "group": "framework"
+      },
+      "preferences.tabs.localization.regionAndCulture.latinAmerica": {
+        "en": "Latin America",
+        "km": "",
+        "group": "framework"
+      },
+      "preferences.tabs.localization.regionAndCulture.oceania": {
+        "en": "Oceania",
+        "km": "",
+        "group": "framework"
+      },
+      "preferences.tabs.localization.regionAndCulture.random": {
+        "en": "Random",
+        "km": "",
+        "group": "framework"
+      },
+      "preferences.tabs.localization.regionAndCulture.unitedStatesOfAmerica": {
+        "en": "United States of America",
+        "km": "",
+        "group": "framework"
+      },
+      "preferences.tabs.localization.regionAndCulture.portrayalSets.africa": {
+        "en": "Africa",
+        "km": "",
+        "group": "framework"
+      },
+      "preferences.tabs.localization.regionAndCulture.portrayalSets.africaModest": {
+        "en": "Africa (Modest)",
+        "km": "",
+        "group": "framework"
+      },
+      "preferences.tabs.localization.regionAndCulture.portrayalSets.asia": {
+        "en": "Asia",
+        "km": "",
+        "group": "framework"
+      },
+      "preferences.tabs.localization.regionAndCulture.portrayalSets.latinAmerica": {
+        "en": "Latin America",
+        "km": "",
+        "group": "framework"
+      },
+      "preferences.tabs.localization.regionAndCulture.portrayalSets.oceania": {
+        "en": "Oceania",
+        "km": "",
+        "group": "framework"
+      },
+      "preferences.tabs.localization.regionAndCulture.portrayalSets.multicultural": {
+        "en": "Multicultural",
+        "km": "",
+        "group": "framework"
+      },
+      "preferences.tabs.localization.regionAndCulture.portrayalSets.unitedStatesOfAmerica": {
+        "en": "United States of America",
+        "km": "",
+        "group": "framework"
+      },
+      "PhetButton.name": {
+        "en": "PhET Menu Button",
+        "km": "",
+        "group": "framework"
+      },
+      "HomeButton.name": {
+        "en": "Home",
+        "km": "",
+        "group": "framework"
+      },
+      "adaptedFrom": {
+        "en": "adapted from",
+        "km": "",
+        "group": "framework"
+      },
+      "titlePattern": {
+        "en": "{0} {1}",
+        "km": "",
+        "group": "framework"
+      },
+      "preferences.tabs.input.gestureControls.title": {
+        "en": "Gesture Control",
+        "km": "",
+        "group": "framework"
+      },
+      "preferences.tabs.input.gestureControls.description": {
+        "en": "Use touch with custom swipes and taps instead. No direct touch with gesture control enabled.",
+        "km": "",
+        "group": "framework"
+      },
+      "preferences.tabs.general.simulationSpecificSettings": {
+        "en": "Simulation-specific Settings",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.keyboardHelp.keyboardShortcuts": {
+        "en": "Keyboard Shortcuts",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.keyboardHelp.tabToGetStarted.accessibleHelpText": {
+        "en": "Use Tab to find sim actions, cursor keys to read details.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.keyboardHelp.tabToGetStarted.readingBlockNameResponse": {
+        "en": "Tab to get started.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.inPlayArea": {
+        "en": "In Play Area:",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.inControlArea": {
+        "en": "In Control Area:",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.simScreens": {
+        "en": "Sim Screens",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.simScreen": {
+        "en": "Sim Screen",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.screenNamePattern": {
+        "en": "{{name}} Screen",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.goToScreenPattern": {
+        "en": "Go to {{name}} Screen.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.screenSimPattern": {
+        "en": "{{screenName}}, {{simName}}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.home": {
+        "en": "Home",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.homeScreenDescriptionPattern": {
+        "en": "Welcome to {{name}}. It has {{screens}} interactive screens that you can explore.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.homeScreenHint": {
+        "en": "Choose a screen to start exploring.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.homeScreenIntroPattern": {
+        "en": "{{description}} {{hint}}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.homeScreenButtonDetailsPattern": {
+        "en": "On {{name}}, {{screenHint}}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.simResources": {
+        "en": "Sim Resources",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.soundToggle.alert.simSoundOn": {
+        "en": "Audio Features on.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.soundToggle.alert.simSoundOff": {
+        "en": "Audio Features off.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.soundToggle.label": {
+        "en": "All Audio",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.checkOutShortcuts": {
+        "en": "If needed, checkout keyboard shortcuts under Sim Resources.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.phetMenu": {
+        "en": "PhET Menu",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.updateDialog.accessibleName": {
+        "en": "Updates",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.preferences.tabs.labelledDescriptionPattern": {
+        "en": "{{label}}, {{description}}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.preferences.tabs.tabResponsePattern": {
+        "en": "Preferences, {{title}} Tab",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.preferences.tabs.visual.interactiveHighlights.enabledAlert": {
+        "en": "Highlights on for all input.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.preferences.tabs.visual.interactiveHighlights.disabledAlert": {
+        "en": "Highlights off for mouse and touch.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.preferences.tabs.audio.sounds.soundsOn": {
+        "en": "Sounds on.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.preferences.tabs.audio.sounds.soundsOff": {
+        "en": "Sounds off.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.preferences.tabs.audio.sounds.extraSounds.extraSoundsOn": {
+        "en": "Extra Sounds on.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.preferences.tabs.audio.sounds.extraSounds.extraSoundsOff": {
+        "en": "Extra Sounds off.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.preferences.tabs.audio.voicing.title": {
+        "en": "Voicing",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.preferences.tabs.audio.voicing.voicingOn": {
+        "en": "Voicing on.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.preferences.tabs.audio.voicing.voicingOff": {
+        "en": "Voicing off.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.preferences.tabs.audio.voicing.voicingOffOnlyAvailableInEnglish": {
+        "en": "Voicing off. Only available in English.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.preferences.tabs.audio.voicing.voicingToolbar.title": {
+        "en": "Toolbar",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.preferences.tabs.audio.voicing.voicingToolbar.toolbarAdded": {
+        "en": "Toolbar added to sim.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.preferences.tabs.audio.voicing.voicingToolbar.toolbarRemoved": {
+        "en": "Toolbar removed.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.preferences.tabs.audio.voicing.simVoicingOptions.title": {
+        "en": "Sim Voicing Options",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.preferences.tabs.audio.voicing.simVoicingOptions.description": {
+        "en": "Choose details you want voiced as you interact.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.preferences.tabs.audio.voicing.simVoicingOptions.objectDetails.label": {
+        "en": "Voice object details and changes",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.preferences.tabs.audio.voicing.simVoicingOptions.objectDetails.enabledAlert": {
+        "en": "Voicing object details and changes.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.preferences.tabs.audio.voicing.simVoicingOptions.objectDetails.disabledAlert": {
+        "en": "Object details and changes muted.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.preferences.tabs.audio.voicing.simVoicingOptions.contextChanges.label": {
+        "en": "Voice surrounding context changes",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.preferences.tabs.audio.voicing.simVoicingOptions.contextChanges.enabledAlert": {
+        "en": "Voicing surrounding context changes.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.preferences.tabs.audio.voicing.simVoicingOptions.contextChanges.disabledAlert": {
+        "en": "Surrounding context changes muted.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.preferences.tabs.audio.voicing.simVoicingOptions.helpfulHints.label": {
+        "en": "Voice helpful hints",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.preferences.tabs.audio.voicing.simVoicingOptions.helpfulHints.enabledAlert": {
+        "en": "Voicing extra help.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.preferences.tabs.audio.voicing.simVoicingOptions.helpfulHints.disabledAlert": {
+        "en": "Extra help muted.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.preferences.tabs.audio.voicing.customizeVoice.title": {
+        "en": "Customize Voice",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.preferences.tabs.audio.voicing.customizeVoice.expandedAlert": {
+        "en": "expanded",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.preferences.tabs.audio.voicing.customizeVoice.collapsedAlert": {
+        "en": "collapsed",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.preferences.tabs.audio.voicing.customizeVoice.variablesPattern": {
+        "en": "{{value}}x",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.preferences.tabs.audio.voicing.customizeVoice.writtenVariablesPattern": {
+        "en": "{{value}} times",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.preferences.tabs.audio.voicing.customizeVoice.voice.title": {
+        "en": "Voice",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.preferences.tabs.audio.voicing.customizeVoice.voice.titlePattern": {
+        "en": "Voice: {{value}}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.preferences.tabs.audio.voicing.customizeVoice.voice.noVoicesAvailable": {
+        "en": "No voices available",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.preferences.tabs.audio.voicing.customizeVoice.rate.title": {
+        "en": "Rate",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.preferences.tabs.audio.voicing.customizeVoice.rate.labelString": {
+        "en": "Voice Rate",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.preferences.tabs.audio.voicing.customizeVoice.rate.rangeDescriptions.low": {
+        "en": "in low range",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.preferences.tabs.audio.voicing.customizeVoice.rate.rangeDescriptions.normal": {
+        "en": "in normal range",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.preferences.tabs.audio.voicing.customizeVoice.rate.rangeDescriptions.aboveNormal": {
+        "en": "above normal range",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.preferences.tabs.audio.voicing.customizeVoice.rate.rangeDescriptions.high": {
+        "en": "in high range",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.preferences.tabs.audio.voicing.customizeVoice.rate.rangeDescriptions.voiceRateNormal": {
+        "en": "normal",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.preferences.tabs.audio.voicing.customizeVoice.pitch.title": {
+        "en": "Pitch",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.preferences.tabs.input.gestureControl.enabledAlert": {
+        "en": "Custom taps and swipes on.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.preferences.tabs.input.gestureControl.disabledAlert": {
+        "en": "Custom taps and swipes off.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.preferences.tabs.localization.languageSelection.languageChangeResponsePattern": {
+        "en": "On-screen text now in {{language}}.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.voicingToolbar.title": {
+        "en": "Toolbar",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.voicingToolbar.openToolbar": {
+        "en": "Open Toolbar",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.voicingToolbar.closeToolbar": {
+        "en": "Close Toolbar",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.voicingToolbar.hideToolbar": {
+        "en": "Hide Toolbar",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.voicingToolbar.showToolbar": {
+        "en": "Show Toolbar",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.voicingToolbar.toolbarShown": {
+        "en": "Toolbar Shown.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.voicingToolbar.toolbarHidden": {
+        "en": "Toolbar hidden.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.voicingToolbar.voicing.title": {
+        "en": "Sim Voicing",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.voicingToolbar.voicing.quickInfo": {
+        "en": "Quick Info",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.voicingToolbar.voicing.playOverviewLabel": {
+        "en": "Play Overview",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.voicingToolbar.voicing.playDetailsLabel": {
+        "en": "Play Details",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.voicingToolbar.voicing.playHintLabel": {
+        "en": "Play Hint",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.voicingToolbar.voicing.overviewLabel": {
+        "en": "Overview",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.voicingToolbar.voicing.detailsLabel": {
+        "en": "Details",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.voicingToolbar.voicing.hintLabel": {
+        "en": "Hint",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.voicingToolbar.voicing.simVoicingOnAlert": {
+        "en": "Sim Voicing on.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.voicingToolbar.voicing.simVoicingOffAlert": {
+        "en": "Sim Voicing off.",
+        "km": "",
+        "group": "framework"
+      }
+    },
+    "scenery-phet": {
+      "scenery-phet.title": {
+        "en": "scenery-phet demo",
+        "km": "",
+        "group": "framework"
+      },
+      "screen.buttons": {
+        "en": "Buttons",
+        "km": "",
+        "group": "framework"
+      },
+      "screen.components": {
+        "en": "Components",
+        "km": "",
+        "group": "framework"
+      },
+      "screen.dialogs": {
+        "en": "Dialogs",
+        "km": "",
+        "group": "framework"
+      },
+      "screen.keyboard": {
+        "en": "Keyboard",
+        "km": "",
+        "group": "framework"
+      },
+      "screen.sliders": {
+        "en": "Sliders",
+        "km": "",
+        "group": "framework"
+      },
+      "screen.spinners": {
+        "en": "Spinners",
+        "km": "",
+        "group": "framework"
+      },
+      "WavelengthSlider.pattern_0wavelength_1units": {
+        "en": "{0} {1}",
+        "km": "",
+        "group": "framework"
+      },
+      "frequencyUnitsPattern": {
+        "en": "{{frequency}} THz",
+        "km": "",
+        "group": "framework"
+      },
+      "stopwatchValueUnitsPattern": {
+        "en": "{{value}} {{units}}",
+        "km": "",
+        "group": "framework"
+      },
+      "units_nm": {
+        "en": "nm",
+        "km": "",
+        "group": "framework"
+      },
+      "shortCircuit": {
+        "en": "Short circuit!",
+        "km": "",
+        "group": "framework"
+      },
+      "heat": {
+        "en": "Heat",
+        "km": "ក្ដៅ",
+        "group": "framework",
+        "kmExists": true
+      },
+      "cool": {
+        "en": "Cool",
+        "km": "ត្រជាក់",
+        "group": "framework",
+        "kmExists": true
+      },
+      "key.tab": {
+        "en": "Tab",
+        "km": "",
+        "group": "framework"
+      },
+      "key.shift": {
+        "en": "Shift",
+        "km": "",
+        "group": "framework"
+      },
+      "key.alt": {
+        "en": "Alt",
+        "km": "",
+        "group": "framework"
+      },
+      "key.option": {
+        "en": "Option",
+        "km": "",
+        "group": "framework"
+      },
+      "key.capsLock": {
+        "en": "Caps Lock",
+        "km": "",
+        "group": "framework"
+      },
+      "key.enter": {
+        "en": "Enter",
+        "km": "",
+        "group": "framework"
+      },
+      "key.return": {
+        "en": "Return",
+        "km": "",
+        "group": "framework"
+      },
+      "key.backspace": {
+        "en": "Backspace",
+        "km": "",
+        "group": "framework"
+      },
+      "key.delete": {
+        "en": "Delete",
+        "km": "",
+        "group": "framework"
+      },
+      "key.space": {
+        "en": "Space",
+        "km": "",
+        "group": "framework"
+      },
+      "key.esc": {
+        "en": "Esc",
+        "km": "",
+        "group": "framework"
+      },
+      "key.fn": {
+        "en": "Fn",
+        "km": "",
+        "group": "framework"
+      },
+      "key.pageUp": {
+        "en": "Pg Up",
+        "km": "",
+        "group": "framework"
+      },
+      "key.pageDown": {
+        "en": "Pg Dn",
+        "km": "",
+        "group": "framework"
+      },
+      "key.home": {
+        "en": "Home",
+        "km": "",
+        "group": "framework"
+      },
+      "key.end": {
+        "en": "End",
+        "km": "",
+        "group": "framework"
+      },
+      "key.a": {
+        "en": "A",
+        "km": "",
+        "group": "framework"
+      },
+      "key.b": {
+        "en": "B",
+        "km": "",
+        "group": "framework"
+      },
+      "key.c": {
+        "en": "C",
+        "km": "",
+        "group": "framework"
+      },
+      "key.d": {
+        "en": "D",
+        "km": "",
+        "group": "framework"
+      },
+      "key.e": {
+        "en": "E",
+        "km": "",
+        "group": "framework"
+      },
+      "key.f": {
+        "en": "F",
+        "km": "",
+        "group": "framework"
+      },
+      "key.g": {
+        "en": "G",
+        "km": "",
+        "group": "framework"
+      },
+      "key.h": {
+        "en": "H",
+        "km": "",
+        "group": "framework"
+      },
+      "key.i": {
+        "en": "I",
+        "km": "",
+        "group": "framework"
+      },
+      "key.j": {
+        "en": "J",
+        "km": "",
+        "group": "framework"
+      },
+      "key.k": {
+        "en": "K",
+        "km": "",
+        "group": "framework"
+      },
+      "key.l": {
+        "en": "L",
+        "km": "",
+        "group": "framework"
+      },
+      "key.m": {
+        "en": "M",
+        "km": "",
+        "group": "framework"
+      },
+      "key.n": {
+        "en": "N",
+        "km": "",
+        "group": "framework"
+      },
+      "key.o": {
+        "en": "O",
+        "km": "",
+        "group": "framework"
+      },
+      "key.p": {
+        "en": "P",
+        "km": "",
+        "group": "framework"
+      },
+      "key.q": {
+        "en": "Q",
+        "km": "",
+        "group": "framework"
+      },
+      "key.r": {
+        "en": "R",
+        "km": "",
+        "group": "framework"
+      },
+      "key.s": {
+        "en": "S",
+        "km": "",
+        "group": "framework"
+      },
+      "key.t": {
+        "en": "T",
+        "km": "",
+        "group": "framework"
+      },
+      "key.u": {
+        "en": "U",
+        "km": "",
+        "group": "framework"
+      },
+      "key.v": {
+        "en": "V",
+        "km": "",
+        "group": "framework"
+      },
+      "key.w": {
+        "en": "W",
+        "km": "",
+        "group": "framework"
+      },
+      "key.x": {
+        "en": "X",
+        "km": "",
+        "group": "framework"
+      },
+      "key.y": {
+        "en": "Y",
+        "km": "",
+        "group": "framework"
+      },
+      "key.z": {
+        "en": "Z",
+        "km": "",
+        "group": "framework"
+      },
+      "key.zero": {
+        "en": "0",
+        "km": "",
+        "group": "framework"
+      },
+      "key.one": {
+        "en": "1",
+        "km": "",
+        "group": "framework"
+      },
+      "key.two": {
+        "en": "2",
+        "km": "",
+        "group": "framework"
+      },
+      "key.three": {
+        "en": "3",
+        "km": "",
+        "group": "framework"
+      },
+      "key.four": {
+        "en": "4",
+        "km": "",
+        "group": "framework"
+      },
+      "key.five": {
+        "en": "5",
+        "km": "",
+        "group": "framework"
+      },
+      "key.six": {
+        "en": "6",
+        "km": "",
+        "group": "framework"
+      },
+      "key.seven": {
+        "en": "7",
+        "km": "",
+        "group": "framework"
+      },
+      "key.eight": {
+        "en": "8",
+        "km": "",
+        "group": "framework"
+      },
+      "key.nine": {
+        "en": "9",
+        "km": "",
+        "group": "framework"
+      },
+      "key.toGrabOrRelease": {
+        "en": "to <b>Grab</b> or <b>Release</b>",
+        "km": "",
+        "group": "framework"
+      },
+      "webglWarning.title": {
+        "en": "Running with low graphics quality",
+        "km": "",
+        "group": "framework"
+      },
+      "webglWarning.body": {
+        "en": "WebGL is not enabled or not available. Click to learn more.",
+        "km": "",
+        "group": "framework"
+      },
+      "webglWarning.contextLossFailure": {
+        "en": "Sorry, a graphics error has occurred.",
+        "km": "",
+        "group": "framework"
+      },
+      "webglWarning.contextLossReload": {
+        "en": "Reload",
+        "km": "",
+        "group": "framework"
+      },
+      "webglWarning.ie11StencilBody": {
+        "en": "Update Internet Explorer by installing recommended Windows Update patches.",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.sliderControls": {
+        "en": "Slider Controls",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.adjustSlider": {
+        "en": "Adjust slider",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.spinnerControls": {
+        "en": "Spinner Controls",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.adjustInSmallerSteps": {
+        "en": "Adjust in smaller steps",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.adjustInLargerSteps": {
+        "en": "Adjust in larger steps",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.jumpToMinimum": {
+        "en": "Jump to minimum",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.jumpToMaximum": {
+        "en": "Jump to maximum",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.adjust": {
+        "en": "Adjust",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.slider": {
+        "en": "slider",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.spinner": {
+        "en": "spinner",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.heatCoolControls": {
+        "en": "Heat/Cool Controls",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.maximumHeat": {
+        "en": "Maximum heat",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.maximumCool": {
+        "en": "Maximum cool",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.heatCoolOff": {
+        "en": "Off",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.verbSliderPattern": {
+        "en": "{{verb}} {{slider}}",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.verbInSmallerStepsPattern": {
+        "en": "{{verb}} in smaller steps",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.verbInLargerStepsPattern": {
+        "en": "{{verb}} in larger steps",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.minimum": {
+        "en": "minimum",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.maximum": {
+        "en": "maximum",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.jumpToMinimumPattern": {
+        "en": "Jump to {{minimum}}",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.jumpToMaximumPattern": {
+        "en": "Jump to {{maximum}}",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.generalNavigation": {
+        "en": "General Navigation",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.basicActions": {
+        "en": "Basic Actions",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.moveToNextItem": {
+        "en": "Move to next item",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.moveToPreviousItem": {
+        "en": "Move to previous item",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.moveToNextItemOrGroup": {
+        "en": "Move to next item or group",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.moveToPreviousItemOrGroup": {
+        "en": "Move to previous item or group",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.pressButtons": {
+        "en": "Press buttons",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.moveBetweenItemsInAGroup": {
+        "en": "Move between items in a group",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.setValuesInKeypad": {
+        "en": "Set values within keypad",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.resetAll": {
+        "en": "Reset All",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.exitADialog": {
+        "en": "Exit a dialog",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.toggleCheckboxes": {
+        "en": "Toggle checkboxes",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.or": {
+        "en": "or",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.hyphen": {
+        "en": "-",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.grabOrReleaseHeadingPattern": {
+        "en": "Grab or Release {{thing}}",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.grabOrReleaseLabelPattern": {
+        "en": "Grab or release {{thing}}",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.comboBox.chooseAThingPattern": {
+        "en": "Choose a {{thingTitle}}",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.comboBox.headingString": {
+        "en": "Change Choice",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.comboBox.popUpListPattern": {
+        "en": "1. Show {{thingPlural}}",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.comboBox.moveThroughPattern": {
+        "en": "2. Move through {{thingPlural}}",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.comboBox.chooseNewPattern": {
+        "en": "3. Change {{thingSingular}}",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.comboBox.closeWithoutChanging": {
+        "en": "4. Close without changing",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.comboBox.options": {
+        "en": "choices",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.comboBox.option": {
+        "en": "choice",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.moveDraggableItems": {
+        "en": "Move Draggable Items",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.move": {
+        "en": "Move",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.moveSlower": {
+        "en": "Move slower",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.faucetControls.faucetControls": {
+        "en": "Faucet Controls",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.faucetControls.adjustFaucetFlow": {
+        "en": "Adjust faucet flow",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.faucetControls.adjustInSmallerSteps": {
+        "en": "Adjust in smaller steps",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.faucetControls.adjustInLargerSteps": {
+        "en": "Adjust in larger steps",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.faucetControls.closeFaucet": {
+        "en": "Close faucet",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.faucetControls.openFaucetFully": {
+        "en": "Open faucet fully",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.faucetControls.openFaucetBriefly": {
+        "en": "Open faucet briefly",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.timingControls.timingControls": {
+        "en": "Time Controls",
+        "km": "",
+        "group": "framework"
+      },
+      "keyboardHelpDialog.timingControls.pauseOrPlayAction": {
+        "en": "Pause or play action",
+        "km": "",
+        "group": "framework"
+      },
+      "speed.normal": {
+        "en": "Normal",
+        "km": "ធម្មតា",
+        "group": "framework",
+        "kmExists": true
+      },
+      "speed.slow": {
+        "en": "Slow",
+        "km": "យឺត",
+        "group": "framework",
+        "kmExists": true
+      },
+      "speed.fast": {
+        "en": "Fast",
+        "km": "លឿន",
+        "group": "framework",
+        "kmExists": true
+      },
+      "symbol.ohms": {
+        "en": "Ω",
+        "km": "",
+        "group": "framework"
+      },
+      "symbol.resistivity": {
+        "en": "ρ",
+        "km": "",
+        "group": "framework"
+      },
+      "comboBoxDisplay.valueUnits": {
+        "en": "{{value}} {{units}}",
+        "km": "",
+        "group": "framework"
+      },
+      "wavelengthNMValuePattern": {
+        "en": "{0} nm",
+        "km": "",
+        "group": "framework"
+      },
+      "measuringTapeReadoutPattern": {
+        "en": "{{distance}} {{units}}",
+        "km": "",
+        "group": "framework"
+      },
+      "wavelength": {
+        "en": "Wavelength",
+        "km": "ជំហានរលក",
+        "group": "framework",
+        "kmExists": true
+      },
+      "rulerCapitalized": {
+        "en": "Ruler",
+        "km": "",
+        "group": "framework"
+      },
+      "ruler": {
+        "en": "Ruler",
+        "km": "",
+        "group": "framework"
+      },
+      "zero": {
+        "en": "zero",
+        "km": "",
+        "group": "framework"
+      },
+      "one": {
+        "en": "one",
+        "km": "",
+        "group": "framework"
+      },
+      "two": {
+        "en": "two",
+        "km": "",
+        "group": "framework"
+      },
+      "three": {
+        "en": "three",
+        "km": "",
+        "group": "framework"
+      },
+      "four": {
+        "en": "four",
+        "km": "",
+        "group": "framework"
+      },
+      "five": {
+        "en": "five",
+        "km": "",
+        "group": "framework"
+      },
+      "six": {
+        "en": "six",
+        "km": "",
+        "group": "framework"
+      },
+      "seven": {
+        "en": "seven",
+        "km": "",
+        "group": "framework"
+      },
+      "eight": {
+        "en": "eight",
+        "km": "",
+        "group": "framework"
+      },
+      "nine": {
+        "en": "nine",
+        "km": "",
+        "group": "framework"
+      },
+      "ten": {
+        "en": "ten",
+        "km": "",
+        "group": "framework"
+      },
+      "offScaleIndicator.pointsOffScale": {
+        "en": "Points<br>off scale!",
+        "km": "",
+        "group": "framework"
+      },
+      "ResetAllButton.name": {
+        "en": "Reset All",
+        "km": "",
+        "group": "framework"
+      },
+      "SoundToggleButton.name": {
+        "en": "Toggle Sound",
+        "km": "",
+        "group": "framework"
+      },
+      "scientificNotation": {
+        "en": "{{value}} × {{base}}<sup>{{exponent}}</sup>",
+        "km": "",
+        "group": "framework"
+      },
+      "units.centimeters.symbol": {
+        "en": "cm",
+        "km": "",
+        "group": "framework"
+      },
+      "units.centimeters.symbolPattern": {
+        "en": "{{value}} cm",
+        "km": "",
+        "group": "framework"
+      },
+      "units.centimetersSquared.symbol": {
+        "en": "cm<sup>2</sup>",
+        "km": "",
+        "group": "framework"
+      },
+      "units.centimetersSquared.symbolPattern": {
+        "en": "{{value}} cm<sup>2</sup>",
+        "km": "",
+        "group": "framework"
+      },
+      "units.hertz.symbol": {
+        "en": "Hz",
+        "km": "",
+        "group": "framework"
+      },
+      "units.hertz.symbolPattern": {
+        "en": "{{value}} Hz",
+        "km": "",
+        "group": "framework"
+      },
+      "units.percent.symbol": {
+        "en": "%",
+        "km": "",
+        "group": "framework"
+      },
+      "units.percent.symbolPattern": {
+        "en": "{{value}}%",
+        "km": "",
+        "group": "framework"
+      },
+      "units.seconds.symbol": {
+        "en": "s",
+        "km": "",
+        "group": "framework"
+      },
+      "units.seconds.symbolPattern": {
+        "en": "{{value}} s",
+        "km": "",
+        "group": "framework"
+      },
+      "units.amperes.symbol": {
+        "en": "A",
+        "km": "",
+        "group": "framework"
+      },
+      "units.amperes.symbolPattern": {
+        "en": "{{value}} A",
+        "km": "",
+        "group": "framework"
+      },
+      "units.volts.symbol": {
+        "en": "V",
+        "km": "",
+        "group": "framework"
+      },
+      "units.volts.symbolPattern": {
+        "en": "{{value}} V",
+        "km": "",
+        "group": "framework"
+      },
+      "units.newtons.symbol": {
+        "en": "N",
+        "km": "",
+        "group": "framework"
+      },
+      "units.newtons.symbolPattern": {
+        "en": "{{value}} N",
+        "km": "",
+        "group": "framework"
+      },
+      "units.watts.symbol": {
+        "en": "W",
+        "km": "",
+        "group": "framework"
+      },
+      "units.watts.symbolPattern": {
+        "en": "{{value}} W",
+        "km": "",
+        "group": "framework"
+      },
+      "units.joules.symbol": {
+        "en": "J",
+        "km": "",
+        "group": "framework"
+      },
+      "units.joules.symbolPattern": {
+        "en": "{{value}} J",
+        "km": "",
+        "group": "framework"
+      },
+      "units.kelvin.symbol": {
+        "en": "K",
+        "km": "",
+        "group": "framework"
+      },
+      "units.kelvin.symbolPattern": {
+        "en": "{{value}} K",
+        "km": "",
+        "group": "framework"
+      },
+      "units.degrees.symbol": {
+        "en": "°",
+        "km": "",
+        "group": "framework"
+      },
+      "units.degrees.symbolPattern": {
+        "en": "{{value}} °",
+        "km": "",
+        "group": "framework"
+      },
+      "units.degreesCelsius.symbol": {
+        "en": "°C",
+        "km": "",
+        "group": "framework"
+      },
+      "units.degreesCelsius.symbolPattern": {
+        "en": "{{value}} °C",
+        "km": "",
+        "group": "framework"
+      },
+      "units.degreesFahrenheit.symbol": {
+        "en": "°F",
+        "km": "",
+        "group": "framework"
+      },
+      "units.degreesFahrenheit.symbolPattern": {
+        "en": "{{value}} °F",
+        "km": "",
+        "group": "framework"
+      },
+      "units.liters.symbol": {
+        "en": "L",
+        "km": "",
+        "group": "framework"
+      },
+      "units.liters.symbolPattern": {
+        "en": "{{value}} L",
+        "km": "",
+        "group": "framework"
+      },
+      "units.litersPerSecond.symbol": {
+        "en": "L/s",
+        "km": "",
+        "group": "framework"
+      },
+      "units.litersPerSecond.symbolPattern": {
+        "en": "{{value}} L/s",
+        "km": "",
+        "group": "framework"
+      },
+      "units.meters.symbol": {
+        "en": "m",
+        "km": "",
+        "group": "framework"
+      },
+      "units.meters.symbolPattern": {
+        "en": "{{value}} m",
+        "km": "",
+        "group": "framework"
+      },
+      "units.metersPerSecond.symbol": {
+        "en": "m/s",
+        "km": "",
+        "group": "framework"
+      },
+      "units.metersPerSecond.symbolPattern": {
+        "en": "{{value}} m/s",
+        "km": "",
+        "group": "framework"
+      },
+      "units.metersPerSecondSquared.symbol": {
+        "en": "m/s<sup>2</sup>",
+        "km": "",
+        "group": "framework"
+      },
+      "units.metersPerSecondSquared.symbolPattern": {
+        "en": "{{value}} m/s<sup>2</sup>",
+        "km": "",
+        "group": "framework"
+      },
+      "units.metersPerSecondPerSecond.symbol": {
+        "en": "m/s/s",
+        "km": "",
+        "group": "framework"
+      },
+      "units.metersPerSecondPerSecond.symbolPattern": {
+        "en": "{{value}} m/s/s",
+        "km": "",
+        "group": "framework"
+      },
+      "units.grams.symbol": {
+        "en": "g",
+        "km": "",
+        "group": "framework"
+      },
+      "units.grams.symbolPattern": {
+        "en": "{{value}} g",
+        "km": "",
+        "group": "framework"
+      },
+      "units.kilograms.symbol": {
+        "en": "kg",
+        "km": "",
+        "group": "framework"
+      },
+      "units.kilograms.symbolPattern": {
+        "en": "{{value}} kg",
+        "km": "",
+        "group": "framework"
+      },
+      "units.kilogramsPerLiter.symbol": {
+        "en": "kg/L",
+        "km": "",
+        "group": "framework"
+      },
+      "units.kilogramsPerLiter.symbolPattern": {
+        "en": "{{value}} kg/L",
+        "km": "",
+        "group": "framework"
+      },
+      "units.kilogramsPerCubicMeter.symbol": {
+        "en": "kg/m<sup>3</sup>",
+        "km": "",
+        "group": "framework"
+      },
+      "units.kilogramsPerCubicMeter.symbolPattern": {
+        "en": "{{value}} kg/m<sup>3</sup>",
+        "km": "",
+        "group": "framework"
+      },
+      "units.kilopascals.symbol": {
+        "en": "kPa",
+        "km": "",
+        "group": "framework"
+      },
+      "units.kilopascals.symbolPattern": {
+        "en": "{{value}} kPa",
+        "km": "",
+        "group": "framework"
+      },
+      "units.nanometers.symbol": {
+        "en": "nm",
+        "km": "",
+        "group": "framework"
+      },
+      "units.nanometers.symbolPattern": {
+        "en": "{{value}} nm",
+        "km": "",
+        "group": "framework"
+      },
+      "units.nanometersPerPicosecond.symbol": {
+        "en": "nm/ps",
+        "km": "",
+        "group": "framework"
+      },
+      "units.nanometersPerPicosecond.symbolPattern": {
+        "en": "{{value}} nm/ps",
+        "km": "",
+        "group": "framework"
+      },
+      "units.kilometersPerSecond.symbol": {
+        "en": "km/s",
+        "km": "",
+        "group": "framework"
+      },
+      "units.kilometersPerSecond.symbolPattern": {
+        "en": "{{value}} km/s",
+        "km": "",
+        "group": "framework"
+      },
+      "units.picometers.symbol": {
+        "en": "pm",
+        "km": "",
+        "group": "framework"
+      },
+      "units.picometers.symbolPattern": {
+        "en": "{{value}} pm",
+        "km": "",
+        "group": "framework"
+      },
+      "units.picometersPerSecond.symbol": {
+        "en": "pm/s",
+        "km": "",
+        "group": "framework"
+      },
+      "units.picometersPerSecond.symbolPattern": {
+        "en": "{{value}} pm/s",
+        "km": "",
+        "group": "framework"
+      },
+      "units.picometersPerSecondSquared.symbol": {
+        "en": "pm/s<sup>2</sup>",
+        "km": "",
+        "group": "framework"
+      },
+      "units.picometersPerSecondSquared.symbolPattern": {
+        "en": "{{value}} pm/s<sup>2</sup>",
+        "km": "",
+        "group": "framework"
+      },
+      "units.nanoseconds.symbol": {
+        "en": "ns",
+        "km": "",
+        "group": "framework"
+      },
+      "units.nanoseconds.symbolPattern": {
+        "en": "{{value}} ns",
+        "km": "",
+        "group": "framework"
+      },
+      "units.picoseconds.symbol": {
+        "en": "ps",
+        "km": "",
+        "group": "framework"
+      },
+      "units.picoseconds.symbolPattern": {
+        "en": "{{value}} ps",
+        "km": "",
+        "group": "framework"
+      },
+      "units.molarAbsorptivity.symbol": {
+        "en": "1/(cm*M)",
+        "km": "",
+        "group": "framework"
+      },
+      "units.molarAbsorptivity.symbolPattern": {
+        "en": "{{value}} 1/(cm*M)",
+        "km": "",
+        "group": "framework"
+      },
+      "units.ohms.symbol": {
+        "en": "Ω",
+        "km": "",
+        "group": "framework"
+      },
+      "units.ohms.symbolPattern": {
+        "en": "{{value}} Ω",
+        "km": "",
+        "group": "framework"
+      },
+      "units.ohmCentimeters.symbol": {
+        "en": "Ω·cm",
+        "km": "",
+        "group": "framework"
+      },
+      "units.ohmCentimeters.symbolPattern": {
+        "en": "{{value}} Ω·cm",
+        "km": "",
+        "group": "framework"
+      },
+      "units.millivolts.symbol": {
+        "en": "mV",
+        "km": "",
+        "group": "framework"
+      },
+      "units.millivolts.symbolPattern": {
+        "en": "{{value}} mV",
+        "km": "",
+        "group": "framework"
+      },
+      "units.milliamperes.symbol": {
+        "en": "mA",
+        "km": "",
+        "group": "framework"
+      },
+      "units.milliamperes.symbolPattern": {
+        "en": "{{value}} mA",
+        "km": "",
+        "group": "framework"
+      },
+      "units.farads.symbol": {
+        "en": "F",
+        "km": "",
+        "group": "framework"
+      },
+      "units.farads.symbolPattern": {
+        "en": "{{value}} F",
+        "km": "",
+        "group": "framework"
+      },
+      "units.webers.symbol": {
+        "en": "Wb",
+        "km": "",
+        "group": "framework"
+      },
+      "units.webers.symbolPattern": {
+        "en": "{{value}} Wb",
+        "km": "",
+        "group": "framework"
+      },
+      "units.gauss.symbol": {
+        "en": "G",
+        "km": "",
+        "group": "framework"
+      },
+      "units.gauss.symbolPattern": {
+        "en": "{{value}} G",
+        "km": "",
+        "group": "framework"
+      },
+      "units.pascalSeconds.symbol": {
+        "en": "Pa·s",
+        "km": "",
+        "group": "framework"
+      },
+      "units.pascalSeconds.symbolPattern": {
+        "en": "{{value}} Pa·s",
+        "km": "",
+        "group": "framework"
+      },
+      "units.newtonsPerMeter.symbol": {
+        "en": "N/m",
+        "km": "",
+        "group": "framework"
+      },
+      "units.newtonsPerMeter.symbolPattern": {
+        "en": "{{value}} N/m",
+        "km": "",
+        "group": "framework"
+      },
+      "units.newtonSecondsPerMeter.symbol": {
+        "en": "N·s/m",
+        "km": "",
+        "group": "framework"
+      },
+      "units.newtonSecondsPerMeter.symbolPattern": {
+        "en": "{{value}} N·s/m",
+        "km": "",
+        "group": "framework"
+      },
+      "units.moles.symbol": {
+        "en": "mol",
+        "km": "",
+        "group": "framework"
+      },
+      "units.moles.symbolPattern": {
+        "en": "{{value}} mol",
+        "km": "",
+        "group": "framework"
+      },
+      "units.molesPerSecond.symbol": {
+        "en": "mol/s",
+        "km": "",
+        "group": "framework"
+      },
+      "units.molesPerSecond.symbolPattern": {
+        "en": "{{value}} mol/s",
+        "km": "",
+        "group": "framework"
+      },
+      "units.molar.symbol": {
+        "en": "M",
+        "km": "",
+        "group": "framework"
+      },
+      "units.molar.symbolPattern": {
+        "en": "{{value}} M",
+        "km": "",
+        "group": "framework"
+      },
+      "units.molesPerLiter.symbol": {
+        "en": "mol/L",
+        "km": "",
+        "group": "framework"
+      },
+      "units.molesPerLiter.symbolPattern": {
+        "en": "{{value}} mol/L",
+        "km": "",
+        "group": "framework"
+      },
+      "units.radians.symbol": {
+        "en": "radians",
+        "km": "",
+        "group": "framework"
+      },
+      "units.radians.symbolPattern": {
+        "en": "{{value}} radians",
+        "km": "",
+        "group": "framework"
+      },
+      "units.radiansPerSecond.symbol": {
+        "en": "radians/s",
+        "km": "",
+        "group": "framework"
+      },
+      "units.radiansPerSecond.symbolPattern": {
+        "en": "{{value}} radians/s",
+        "km": "",
+        "group": "framework"
+      },
+      "units.radiansPerSecondSquared.symbol": {
+        "en": "radians/s<sup>2</sup>",
+        "km": "",
+        "group": "framework"
+      },
+      "units.radiansPerSecondSquared.symbolPattern": {
+        "en": "{{value}} radians/s<sup>2</sup>",
+        "km": "",
+        "group": "framework"
+      },
+      "units.years.symbol": {
+        "en": "years",
+        "km": "",
+        "group": "framework"
+      },
+      "units.years.symbolPattern": {
+        "en": "{{value}} years",
+        "km": "",
+        "group": "framework"
+      },
+      "units.astronomicalUnits.symbol": {
+        "en": "AU",
+        "km": "",
+        "group": "framework"
+      },
+      "units.astronomicalUnits.symbolPattern": {
+        "en": "{{value}} AU",
+        "km": "",
+        "group": "framework"
+      },
+      "units.astronomicalUnitsSquared.symbol": {
+        "en": "AU<sup>2</sup>",
+        "km": "",
+        "group": "framework"
+      },
+      "units.astronomicalUnitsSquared.symbolPattern": {
+        "en": "{{value}} AU<sup>2</sup>",
+        "km": "",
+        "group": "framework"
+      },
+      "units.viewCoordinatesPerSecond.symbol": {
+        "en": "view-coordinates/s",
+        "km": "",
+        "group": "framework"
+      },
+      "units.viewCoordinatesPerSecond.symbolPattern": {
+        "en": "{{value}} view-coordinates/s",
+        "km": "",
+        "group": "framework"
+      },
+      "units.atomicMassUnits.symbol": {
+        "en": "AMU",
+        "km": "",
+        "group": "framework"
+      },
+      "units.atomicMassUnits.symbolPattern": {
+        "en": "{{value}} AMU",
+        "km": "",
+        "group": "framework"
+      },
+      "units.coulombs.symbol": {
+        "en": "C",
+        "km": "",
+        "group": "framework"
+      },
+      "units.coulombs.symbolPattern": {
+        "en": "{{value}} C",
+        "km": "",
+        "group": "framework"
+      },
+      "units.cubicMeters.symbol": {
+        "en": "m<sup>3</sup>",
+        "km": "",
+        "group": "framework"
+      },
+      "units.cubicMeters.symbolPattern": {
+        "en": "{{value}} m<sup>3</sup>",
+        "km": "",
+        "group": "framework"
+      },
+      "units.cubicPicometers.symbol": {
+        "en": "pm<sup>3</sup>",
+        "km": "",
+        "group": "framework"
+      },
+      "units.cubicPicometers.symbolPattern": {
+        "en": "{{value}} pm<sup>3</sup>",
+        "km": "",
+        "group": "framework"
+      },
+      "units.electronVolt.symbol": {
+        "en": "eV",
+        "km": "",
+        "group": "framework"
+      },
+      "units.electronVolt.symbolPattern": {
+        "en": "{{value}} eV",
+        "km": "",
+        "group": "framework"
+      },
+      "units.millimeters.symbol": {
+        "en": "mm",
+        "km": "",
+        "group": "framework"
+      },
+      "units.millimeters.symbolPattern": {
+        "en": "{{value}} mm",
+        "km": "",
+        "group": "framework"
+      },
+      "units.particlesPerPicosecond.symbol": {
+        "en": "particles/ps",
+        "km": "",
+        "group": "framework"
+      },
+      "units.particlesPerPicosecond.symbolPattern": {
+        "en": "{{value}} particles/ps",
+        "km": "",
+        "group": "framework"
+      },
+      "units.revolutionsPerMinute.symbol": {
+        "en": "rpm",
+        "km": "",
+        "group": "framework"
+      },
+      "units.revolutionsPerMinute.symbolPattern": {
+        "en": "{{value}} rpm",
+        "km": "",
+        "group": "framework"
+      },
+      "units.atmospheres.symbol": {
+        "en": "atm",
+        "km": "",
+        "group": "framework"
+      },
+      "units.atmospheres.symbolPattern": {
+        "en": "{{value}} atm",
+        "km": "",
+        "group": "framework"
+      },
+      "units.kilogramMetersPerSecond.symbol": {
+        "en": "kg·m/s",
+        "km": "",
+        "group": "framework"
+      },
+      "units.kilogramMetersPerSecond.symbolPattern": {
+        "en": "{{value}} kg·m/s",
+        "km": "",
+        "group": "framework"
+      },
+      "units.picometersPerPicosecond.symbol": {
+        "en": "pm/ps",
+        "km": "",
+        "group": "framework"
+      },
+      "units.picometersPerPicosecond.symbolPattern": {
+        "en": "{{value}} pm/ps",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.simSection.screenSummary.multiScreenIntro": {
+        "en": "The {{screen}} changes as you play with it. It has a Play Area and a Control Area.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.simSection.screenSummary.singleScreenIntroPattern": {
+        "en": "{{sim}} is an interactive sim. It changes as you play with it. It has a Play Area and a Control Area.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.simSection.screenSummary.keyboardShortcutsHint": {
+        "en": "This screen has custom interactions. If needed, check out keyboard shortcuts under Sim Resources.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.simSection.playArea": {
+        "en": "Play Area",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.simSection.controlArea": {
+        "en": "Control Area",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.resetAll.accessibleName": {
+        "en": "Reset All",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.resetAll.accessibleContextResponse": {
+        "en": "Everything reset.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.soundToggle.label": {
+        "en": "Mute Sound",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.soundToggle.alert.simSoundOn": {
+        "en": "Sim sound on.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.soundToggle.alert.simSoundOff": {
+        "en": "Sim sound off.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.keyboardHelpDialog.general.setValuesInKeypadDescription": {
+        "en": "Set values within keypad using number keys 0-9.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.keyboardHelpDialog.comboBox.popUpListPattern": {
+        "en": "Show {{thingPlural}}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.keyboardHelpDialog.comboBox.moveThroughPattern": {
+        "en": "Move through {{thingPlural}}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.keyboardHelpDialog.comboBox.chooseNewPattern": {
+        "en": "Change {{thingSingular}}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.keyboardHelpDialog.comboBox.closeWithoutChanging": {
+        "en": "Close without changing",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.keyboard.helpPatterns.actionStatement": {
+        "en": "{ $action }.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.keyboard.helpPatterns.actionWithKeys": {
+        "en": "{ $action } with { $keys }.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.keyboard.helpPatterns.modifiersPlusKeys": {
+        "en": "{ $modifiers } plus { $keys }",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.keyboard.helpPatterns.singleKey": {
+        "en": "{ $keyLabel } key",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.keyboard.helpPatterns.multipleKeys": {
+        "en": "{ $keyLabels } keys",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.keyboard.helpPatterns.twoItemList": {
+        "en": "{ $first } or { $second }",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.keyboard.helpPatterns.serialList": {
+        "en": "{ $items }, or { $last }",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.keyboard.helpPatterns.commaSpace": {
+        "en": ", ",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.keyboard.helpPatterns.spacePlusSpace": {
+        "en": " plus ",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.keyboard.key.leftArrow": {
+        "en": "Left Arrow",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.keyboard.key.rightArrow": {
+        "en": "Right Arrow",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.keyboard.key.upArrow": {
+        "en": "Up Arrow",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.keyboard.key.downArrow": {
+        "en": "Down Arrow",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.keyboard.key.pageUp": {
+        "en": "Page Up",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.keyboard.key.pageDown": {
+        "en": "Page Down",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.keyboard.key.escape": {
+        "en": "Escape",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.keyboard.key.control": {
+        "en": "Control",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.keySets.arrowOrWASD": {
+        "en": "Arrow keys or W, A, S, or D letter keys",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.keySets.arrow": {
+        "en": "Arrow keys",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.keySets.leftRightOrUpDownArrows": {
+        "en": "Left and Right Arrow keys or Up and Down Arrow keys",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.keySets.leftRightArrows": {
+        "en": "Left and Right Arrow keys",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.keySets.leftOrRightArrows": {
+        "en": "Left or Right Arrow keys",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.keySets.upDownArrows": {
+        "en": "Up and Down Arrow keys",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.keySets.upOrDownArrows": {
+        "en": "Up or Down Arrow keys",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.keySets.wasd": {
+        "en": "W, A, S, or D letter keys",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.keySets.ad": {
+        "en": "A and D letter keys",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.keySets.ws": {
+        "en": "W and S letter keys",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.keySets.leftRightOrAD": {
+        "en": "Left and Right Arrow keys or A and D letter keys",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.keySets.upDownOrWS": {
+        "en": "Up and Down Arrow keys or W and S letter keys",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.eraserButton.accessibleName": {
+        "en": "Erase",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.timerToggleButton.accessibleNameOn": {
+        "en": "Timer On",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.timerToggleButton.accessibleNameOff": {
+        "en": "Timer Off",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.playControlButton.play": {
+        "en": "Play",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.playControlButton.pause": {
+        "en": "Pause",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.playControlButton.stop": {
+        "en": "Stop",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.playPauseButton.playingAccessibleContextResponse": {
+        "en": "Sim playing.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.playPauseButton.pausedAccessibleContextResponse": {
+        "en": "Sim paused.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.stepBackwardButton.accessibleName": {
+        "en": "Step Backward",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.stepBackwardButton.accessibleContextResponse": {
+        "en": "Stepping backward.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.stepForwardButton.accessibleName": {
+        "en": "Step Forward",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.stepForwardButton.accessibleContextResponse": {
+        "en": "Stepping forward.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.stepButton.playingDescription": {
+        "en": "Pause sim to step forward little by little.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.stepButton.pausedDescription": {
+        "en": "Play sim to resume chosen speed.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.timeControlNode.simSpeedDescription": {
+        "en": "For closer observations Play sim on slower speed.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.timeControlNode.accessibleHeading": {
+        "en": "Time Controls",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.timeControlNode.simSpeeds": {
+        "en": "Sim Speeds",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.playPauseStepButtonGroup.playingHelpText": {
+        "en": "Pause sim to step through little by little.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.playPauseStepButtonGroup.pausedHelpText": {
+        "en": "Step through little by little.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.restartButton.accessibleName": {
+        "en": "Restart",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.movementAlerter.down": {
+        "en": "down",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.movementAlerter.left": {
+        "en": "left",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.movementAlerter.right": {
+        "en": "right",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.movementAlerter.up": {
+        "en": "up",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.movementAlerter.upAndToTheRight": {
+        "en": "up and to the right",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.movementAlerter.upAndToTheLeft": {
+        "en": "up and to the left",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.movementAlerter.downAndToTheRight": {
+        "en": "down and to the right",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.movementAlerter.downAndToTheLeft": {
+        "en": "down and to the left",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.movementAlerter.leftBorderAlert": {
+        "en": "At left edge",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.movementAlerter.rightBorderAlert": {
+        "en": "At right edge",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.movementAlerter.topBorderAlert": {
+        "en": "At top",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.movementAlerter.bottomBorderAlert": {
+        "en": "At bottom",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.grabDrag.grabPattern": {
+        "en": "Grab {{objectToGrab}}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.grabDrag.movable": {
+        "en": "movable",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.grabDrag.button": {
+        "en": "button",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.grabDrag.defaultObjectToGrab": {
+        "en": "Object",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.grabDrag.released": {
+        "en": "Released.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.grabDrag.grabbed": {
+        "en": "Grabbed.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.grabDrag.gestureHelpTextPattern": {
+        "en": "Double tap and hold to drag {{objectToGrab}}. Lift finger to release.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.grabDrag.spaceToGrabOrRelease": {
+        "en": "Space to Grab or Release.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.groupSort.sortable": {
+        "en": "sortable",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.groupSort.navigable": {
+        "en": "navigable",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.groupSort.grabbedAccessibleObjectResponse": {
+        "en": "Grabbed.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.groupSort.releasedAccessibleObjectResponse": {
+        "en": "Released.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.listItemPunctuation.semicolonPattern": {
+        "en": "{{content}};",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.listItemPunctuation.commaPattern": {
+        "en": "{{content}},",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.listItemPunctuation.periodPattern": {
+        "en": "{{content}}.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.voicing.simSection.screenSummary.singleScreenIntroPattern": {
+        "en": "{{sim}} is an interactive sim. It changes as you play with it.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.voicing.grabDragHintPattern": {
+        "en": "Tap, hold, and drag to {{manipulation}}.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.voicing.grabbedAlert": {
+        "en": "Grabbed.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.voicing.draggableAlert": {
+        "en": "Draggable",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.close": {
+        "en": "Close",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.zoomIn": {
+        "en": "Zoom In",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.zoomOut": {
+        "en": "Zoom Out",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.measuringTape": {
+        "en": "Measuring Tape",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.measuringTapeTip": {
+        "en": "Measuring Tape Tip",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.info": {
+        "en": "Info",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.offScaleIndicator.pointsOffScaleUp": {
+        "en": "Points off scale up!",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.offScaleIndicator.pointsOffScaleDown": {
+        "en": "Points off scale down!",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.offScaleIndicator.pointsOffScaleLeft": {
+        "en": "Points off scale to the left!",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.offScaleIndicator.pointsOffScaleRight": {
+        "en": "Points off scale to the right!",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.stopwatch.accessibleName": {
+        "en": "Stopwatch",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.stopwatch.accessibleHelpText": {
+        "en": "Measure elapsed time.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.stopwatch.units.seconds.seconds": {
+        "en": "seconds",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.stopwatch.units.seconds.pattern": {
+        "en": "{ $seconds } seconds",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.stopwatch.units.minutesAndSeconds.pattern": {
+        "en": "{ $minutes ->\n  [one] { $minutes } minute\n  *[other] { $minutes } minutes\n} and { $seconds } seconds",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.stopwatch.units.valueUnits.pattern": {
+        "en": "{ $value } { $units }",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.stopwatch.resetButton.accessibleName": {
+        "en": "Reset Stopwatch",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.stopwatch.resetButton.accessibleContextResponse": {
+        "en": "Stopwatch reset.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.stopwatch.playButton.accessibleName": {
+        "en": "Start Stopwatch",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.stopwatch.pauseButton.accessibleName": {
+        "en": "Pause Stopwatch",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.negativeNumber": {
+        "en": "negative { $value }",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.scientificNotation": {
+        "en": "{ $value } times ${ $base } to the { $exponent } power",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.centimeters.pattern": {
+        "en": "{ $value ->\n  [one] { $value } centimeter\n  *[other] { $value } centimeters\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.centimetersSquared.pattern": {
+        "en": "{ $value ->\n  [one] { $value } square centimeter\n  *[other] { $value } square centimeters\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.hertz.pattern": {
+        "en": "{ $value } hertz",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.percent.pattern": {
+        "en": "{ $value } percent",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.seconds.pattern": {
+        "en": "{ $value ->\n  [one] { $value } second\n  *[other] { $value } seconds\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.kilopascals.pattern": {
+        "en": "{ $value ->\n  [one] { $value } kilopascal\n  *[other] { $value } kilopascals\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.amperes.pattern": {
+        "en": "{ $value ->\n  [one] { $value } ampere\n  *[other] { $value } amperes\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.volts.pattern": {
+        "en": "{ $value ->\n  [one] { $value } volt\n  *[other] { $value } volts\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.newtons.pattern": {
+        "en": "{ $value ->\n  [one] { $value } newton\n  *[other] { $value } newtons\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.watts.pattern": {
+        "en": "{ $value ->\n  [one] { $value } watt\n  *[other] { $value } watts\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.joules.pattern": {
+        "en": "{ $value ->\n  [one] { $value } joule\n  *[other] { $value } joules\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.kelvin.pattern": {
+        "en": "{ $value ->\n  [one] { $value } kelvin\n  *[other] { $value } kelvins\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.degrees.pattern": {
+        "en": "{ $value ->\n  [one] { $value } degree\n  *[other] { $value } degrees\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.degreesCelsius.pattern": {
+        "en": "{ $value ->\n  [one] { $value } degree Celsius\n  *[other] { $value } degrees Celsius\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.degreesFahrenheit.pattern": {
+        "en": "{ $value ->\n  [one] { $value } degree Fahrenheit\n  *[other] { $value } degrees Fahrenheit\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.liters.pattern": {
+        "en": "{ $value ->\n  [one] { $value } liter\n  *[other] { $value } liters\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.litersPerSecond.pattern": {
+        "en": "{ $value ->\n  [one] { $value } liter per second\n  *[other] { $value } liters per second\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.meters.pattern": {
+        "en": "{ $value ->\n  [one] { $value } meter\n  *[other] { $value } meters\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.metersPerSecond.pattern": {
+        "en": "{ $value ->\n  [one] { $value } meter per second\n  *[other] { $value } meters per second\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.metersPerSecondSquared.pattern": {
+        "en": "{ $value ->\n  [one] { $value } meter per second squared\n  *[other] { $value } meters per second squared\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.metersPerSecondPerSecond.pattern": {
+        "en": "{ $value ->\n  [one] { $value } meter per second per second\n  *[other] { $value } meters per second per second\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.grams.pattern": {
+        "en": "{ $value ->\n  [one] { $value } gram\n  *[other] { $value } grams\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.kilograms.pattern": {
+        "en": "{ $value ->\n  [one] { $value } kilogram\n  *[other] { $value } kilograms\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.kilogramsPerLiter.pattern": {
+        "en": "{ $value ->\n  [one] { $value } kilogram per liter\n  *[other] { $value } kilograms per liter\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.kilogramsPerCubicMeter.pattern": {
+        "en": "{ $value ->\n  [one] { $value } kilogram per cubic meter\n  *[other] { $value } kilograms per cubic meter\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.nanometers.pattern": {
+        "en": "{ $value ->\n  [one] { $value } nanometer\n  *[other] { $value } nanometers\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.nanometersPerPicosecond.pattern": {
+        "en": "{ $value ->\n  [one] { $value } nanometer per picosecond\n  *[other] { $value } nanometers per picosecond\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.kilometersPerSecond.pattern": {
+        "en": "{ $value ->\n  [one] { $value } kilometer per second\n  *[other] { $value } kilometers per second\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.picometers.pattern": {
+        "en": "{ $value ->\n  [one] { $value } picometer\n  *[other] { $value } picometers\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.picometersPerSecond.pattern": {
+        "en": "{ $value ->\n  [one] { $value } picometer per second\n  *[other] { $value } picometers per second\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.picometersPerSecondSquared.pattern": {
+        "en": "{ $value ->\n  [one] { $value } picometer per second squared\n  *[other] { $value } picometers per second squared\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.nanoseconds.pattern": {
+        "en": "{ $value ->\n  [one] { $value } nanosecond\n  *[other] { $value } nanoseconds\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.picoseconds.pattern": {
+        "en": "{ $value ->\n  [one] { $value } picosecond\n  *[other] { $value } picoseconds\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.molarAbsorptivity.pattern": {
+        "en": "{ $value } per centimeter per molar",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.ohms.pattern": {
+        "en": "{ $value ->\n  [one] { $value } ohm\n  *[other] { $value } ohms\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.ohmCentimeters.pattern": {
+        "en": "{ $value ->\n  [one] { $value } ohm-centimeter\n  *[other] { $value } ohm-centimeters\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.millivolts.pattern": {
+        "en": "{ $value ->\n  [one] { $value } millivolt\n  *[other] { $value } millivolts\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.milliamperes.pattern": {
+        "en": "{ $value ->\n  [one] { $value } milliampere\n  *[other] { $value } milliamperes\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.farads.pattern": {
+        "en": "{ $value ->\n  [one] { $value } farad\n  *[other] { $value } farads\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.webers.pattern": {
+        "en": "{ $value ->\n  [one] { $value } weber\n  *[other] { $value } webers\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.gauss.pattern": {
+        "en": "{ $value } gauss",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.pascalSeconds.pattern": {
+        "en": "{ $value ->\n  [one] { $value } pascal second\n  *[other] { $value } pascal seconds\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.newtonsPerMeter.pattern": {
+        "en": "{ $value ->\n  [one] { $value } newton per meter\n  *[other] { $value } newtons per meter\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.newtonSecondsPerMeter.pattern": {
+        "en": "{ $value ->\n  [one] { $value } newton-second per meter\n  *[other] { $value } newton-seconds per meter\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.moles.pattern": {
+        "en": "{ $value ->\n  [one] { $value } mole\n  *[other] { $value } moles\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.molesPerSecond.pattern": {
+        "en": "{ $value ->\n  [one] { $value } mole per second\n  *[other] { $value } moles per second\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.molar.pattern": {
+        "en": "{ $value } molar",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.molesPerLiter.pattern": {
+        "en": "{ $value ->\n  [one] { $value } mole per liter\n  *[other] { $value } moles per liter\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.radians.pattern": {
+        "en": "{ $value ->\n  [one] { $value } radian\n  *[other] { $value } radians\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.radiansPerSecond.pattern": {
+        "en": "{ $value ->\n  [one] { $value } radian per second\n  *[other] { $value } radians per second\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.radiansPerSecondSquared.pattern": {
+        "en": "{ $value ->\n  [one] { $value } radian per second squared\n  *[other] { $value } radians per second squared\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.years.pattern": {
+        "en": "{ $value ->\n  [one] { $value } year\n  *[other] { $value } years\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.astronomicalUnits.pattern": {
+        "en": "{ $value ->\n  [one] { $value } astronomical unit\n  *[other] { $value } astronomical units\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.astronomicalUnitsSquared.pattern": {
+        "en": "{ $value ->\n  [one] { $value } square astronomical unit\n  *[other] { $value } square astronomical units\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.viewCoordinatesPerSecond.pattern": {
+        "en": "{ $value } view-coordinates per second",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.atomicMassUnits.pattern": {
+        "en": "{ $value ->\n  [one] { $value } atomic mass unit\n  *[other] { $value } atomic mass units\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.coulombs.pattern": {
+        "en": "{ $value ->\n  [one] { $value } coulomb\n  *[other] { $value } coulombs\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.cubicMeters.pattern": {
+        "en": "{ $value ->\n  [one] { $value } cubic meter\n  *[other] { $value } cubic meters\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.cubicPicometers.pattern": {
+        "en": "{ $value ->\n  [one] { $value } cubic picometer\n  *[other] { $value } cubic picometers\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.electronVolt.pattern": {
+        "en": "{ $value ->\n  [one] { $value } electron volt\n  *[other] { $value } electron volts\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.millimeters.pattern": {
+        "en": "{ $value ->\n  [one] { $value } millimeter\n  *[other] { $value } millimeters\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.particlesPerPicosecond.pattern": {
+        "en": "{ $value ->\n  [one] { $value } particle per picosecond\n  *[other] { $value } particles per picosecond\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.revolutionsPerMinute.pattern": {
+        "en": "{ $value ->\n  [one] { $value } revolution per minute\n  *[other] { $value } revolutions per minute\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.atmospheres.pattern": {
+        "en": "{ $value ->\n  [one] { $value } atmosphere\n  *[other] { $value } atmospheres\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.kilogramMetersPerSecond.pattern": {
+        "en": "{ $value ->\n  [one] { $value } kilogram-meter per second\n  *[other] { $value } kilogram-meters per second\n}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.units.picometersPerPicosecond.pattern": {
+        "en": "{ $value ->\n  [one] { $value } picometer per picosecond\n  *[other] { $value } picometers per picosecond\n}",
+        "km": "",
+        "group": "framework"
+      }
+    },
+    "sun": {
+      "sun.title": {
+        "en": "sun demo",
+        "km": "",
+        "group": "framework"
+      },
+      "screen.buttons": {
+        "en": "Buttons",
+        "km": "",
+        "group": "framework"
+      },
+      "screen.components": {
+        "en": "Components",
+        "km": "",
+        "group": "framework"
+      },
+      "screen.dialogs": {
+        "en": "Dialogs",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.numberSpinnerRoleDescription": {
+        "en": "number spinner",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.closed": {
+        "en": "Closed",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.titleClosePattern": {
+        "en": "{{title}}, Close.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.aBSwitch.accessibleNamePattern": {
+        "en": "{{selectedValue}}, Switch to {{otherValue}}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.radioButtonGroup.combinedNameResponse": {
+        "en": "{{groupName}}, {{buttonName}}",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.carousel.accessibleRoleDescription": {
+        "en": "carousel",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.carousel.page.accessibleName": {
+        "en": "Page",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.carousel.nextPreviousButtons.nextButton.accessibleName": {
+        "en": "Next",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.carousel.nextPreviousButtons.nextButton.accessibleContextResponse": {
+        "en": "{{number}} more items available.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.carousel.nextPreviousButtons.previousButton.accessibleName": {
+        "en": "Previous",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.carousel.nextPreviousButtons.previousButton.accessibleContextResponse": {
+        "en": "{{number}} previous items available.",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.pageControl.accessibleName": {
+        "en": "Pages",
+        "km": "",
+        "group": "framework"
+      },
+      "a11y.pageControl.dotNode.accessibleNamePattern": {
+        "en": "Page {{pageNumber}}",
+        "km": "",
+        "group": "framework"
+      }
+    },
+    "tambo": {
+      "tambo.title": {
+        "en": "Tambo Demo",
+        "km": "",
+        "group": "framework"
+      },
+      "screen.simLikeComponents": {
+        "en": "Sim-Like Components",
+        "km": "",
+        "group": "framework"
+      },
+      "screen.uiComponents": {
+        "en": "UI Components",
+        "km": "",
+        "group": "framework"
+      },
+      "screen.testing": {
+        "en": "Testing",
+        "km": "",
+        "group": "framework"
+      }
+    },
+    "twixt": {
+      "twixt.title": {
+        "en": "Twixt Demo",
+        "km": "",
+        "group": "framework"
+      },
+      "screen.animation": {
+        "en": "Animation",
+        "km": "",
+        "group": "framework"
+      },
+      "screen.dampedMotion": {
+        "en": "Damped Motion",
+        "km": "",
+        "group": "framework"
+      },
+      "screen.transitions": {
+        "en": "Transitions",
+        "km": "",
+        "group": "framework"
+      }
+    },
+    "bamboo": {
+      "bamboo.title": {
+        "en": "Bamboo Demo",
+        "km": "",
+        "group": "framework"
+      }
+    }
+  }
+}
